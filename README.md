@@ -3,10 +3,10 @@ Datahat provides a platform to learn, create and collaborate.
 It aims to simplify data science and empower data driven decision making
 
 References
-Youtube: https://www.youtube.com/@datahat642
-linkedIn: https://www.linkedin.com/company/datahat-unfoldingmystery/?viewAsMember=true
-Medium: https://medium.com/@souravagarwal54321
-Kaggle: https://www.kaggle.com/saag22
+Youtube: https://www.youtube.com/@datahat642 </br>
+linkedIn: https://www.linkedin.com/company/datahat-unfoldingmystery/?viewAsMember=true </br>
+Medium: https://medium.com/@souravagarwal54321 </br>
+Kaggle: https://www.kaggle.com/saag22 </br>
 
 Provide learning through
 * Free Courses via the youtube channel
