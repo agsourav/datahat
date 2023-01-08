@@ -2,7 +2,7 @@
 Datahat provides a platform to learn, create and collaborate. 
 It aims to simplify data science and empower data driven decision making
 
-References
+<b> References </b></br>
 Youtube: https://www.youtube.com/@datahat642 </br>
 linkedIn: https://www.linkedin.com/company/datahat-unfoldingmystery/?viewAsMember=true </br>
 Medium: https://medium.com/@souravagarwal54321 </br>
